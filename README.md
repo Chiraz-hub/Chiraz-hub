@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="155" src="https://i.pinimg.com/originals/da/87/21/da87211d07e0bae1ea974a30aa8de20b.gif"  />
+  <img height="200" src="https://giffiles.alphacoders.com/223/223130.gif"  />
 </div>
 
 ###
@@ -78,7 +78,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%20THANK%20YOU!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%20THANK%20YOU!&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
