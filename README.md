@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Chiraz  and I'm an inspiring Software Engineer</h2>
+<h2 align="center">Hi 👋! My name is Chiraz  and I'm an inspiring Cybersecurity Engineer</h2>
 
 ###
 
